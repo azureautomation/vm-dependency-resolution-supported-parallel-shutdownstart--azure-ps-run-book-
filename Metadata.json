@@ -1,0 +1,20 @@
+{
+    "Author": "jamemao",
+    "ContentSize": 7366,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/vm-dependency-resolution-supported-parallel-shutdownstart-(azure-ps-run-book)/master/shutdown-start-azurermvms-withdependencies.ps1",
+    "DownloadCount": 637,
+    "Id": "VM-dependency-resolution-a1ccf032",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 433,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-4-19T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell workflow based Azure run book can be deployed to azure automation in order to support scheduled RM VM shutdown/start in parallel, it also supports VM dependency resolution using simple PS hash table object.",
+    "Title": "VM dependency resolution supported parallel shutdown/start (Azure PS run book)",
+    "UpdatedDate": "2017-4-19T00:00:00",
+    "Url": "https://github.com/azureautomation/vm-dependency-resolution-supported-parallel-shutdownstart-(azure-ps-run-book)",
+    "UserTags": "Dependency, shutdown, Startup"
+}
